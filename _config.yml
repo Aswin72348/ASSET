@@ -27,9 +27,9 @@ colors:  #in hex code if not noted else
 # Social networks usernames. Many more available: google-plus, flickr, linkedin, etc). Shown in footer.
 social:
   - title: facebook
-    url:
+    url:https://192.168.43.69
   - title: twitter
-    url:
+    url:https://192.168.43.69
 
 # Postal address (add as many lines as necessary). Shown in footer and on Contact page.
 address:
